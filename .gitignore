@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Local Database
+chroma_db/
+
+# Environment / Keys
+.env
