@@ -1,4 +1,4 @@
-# ✈️ Frontier AI Resume Recruiter
+# ✈️ AI Resume Recruiter
 An automated Applicant Tracking System (ATS) built with **LangChain**, **ChromaDB**, and **Groq**. 
 
 ## 🚀 Features
